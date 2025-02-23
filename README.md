@@ -13,7 +13,7 @@ This repository is the result of research on open-source codes related to Linear
 - [x] **Recursive Feature Elimination (RFE)**
 - [x] **Model Training**
 - [x] **Model Evaluation (R² & MAE)**
-- [x] **Residues & Validation of Results (Shapiro-Wilk & Anderson-Darling)**
+- [x] **Residues & Validation of Results (Normality of Residuals, Independence Residual, Homoscedasticity, Outliers)**
 
 > [!NOTE]
 > The code descriptions are in Portuguese 🇧🇷, but the variables and code structure follow English conventions.
