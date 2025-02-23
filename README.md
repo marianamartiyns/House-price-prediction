@@ -10,7 +10,6 @@ This repository is the result of research on open-source codes related to Linear
 
 - [x] **Data Cleaning**
 - [x] **Exploratory Data Analysis (EDA)**
-- [x] **Recursive Feature Elimination (RFE)**
 - [x] **Model Training**
 - [x] **Model Evaluation (R² & MAE)**
 - [x] **Residues & Validation of Results (Normality of Residuals, Independence Residual, Homoscedasticity, Outliers)**
